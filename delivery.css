@@ -1,0 +1,21 @@
+body{background-color:#F6F5F5;}
+.noLine{text-decoration:none}
+.logo{position:relative;left:0px;top:10px;width:60px; height:60px;}
+
+
+.Tip{background-color:#008891; border-radius:19px;color:#FFFBEF;font-family:verdana;line-height:2}
+
+#lognavigation{color:#FFFBEF; border-radius:19px; font-size: 30px; line-height:1.5; font-family:verdana;background-color:#8AB6D6;text-align:center;}
+#alltitle{text-align:center;color:#0061A8;font-family:verdana;}
+.logfunction{font-size:40px; color:floralwhite;}
+
+.hint{color:white;text-align:center ;}
+.show2stu{color:black;text-align:center ;}
+.Tip2{background-color:#00587A;text-align:center; border-radius:19px;color:#FFFBEF;font-family:verdana;line-height:1px; height:120px}
+
+.showTable{border-collapse: collapse;left:480px;top:320px;width:50%;text-align:center ;}
+.thTable{border-radius:5px;background-color:#A8D8D9;color:#0D5661;font-family:verdana;font-size:20px;font-weight:900;}
+.tdTable{background-color:#FEFFDE;border-radius:5px;color:#0D5661;font-family:verdana;font-size:20px;text-align:center;}
+
+.showTable2{border-collapse: collapse;position:sticky; left:500px;width:50%;text-align:center ;}
+.displayTime{position:sticky;left:300px;text-align:center;}
